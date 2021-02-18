@@ -1,0 +1,14 @@
+[
+    {
+        "repository": "RenatohRibeiro/device_samsung_sdm845-common",
+    	"target_path": "device/samsung/sdm845-common",
+    	"remote": "github",
+	"revision": "PE-11"
+    },
+        {
+	"repository": "RenatohRibeiro/android_kernel_samsung_sdm845",
+	"target_path": "kernel/samsung/sdm845",
+	"remote": "github",
+	"revision": "Clang"
+    }
+]
