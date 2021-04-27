@@ -3,12 +3,24 @@
         "repository": "PotatoDevices/device_samsung_sdm845-common",
     	"target_path": "device/samsung/sdm845-common",
     	"remote": "github",
-	"revision": "POSP"
+	"revision": "dumaloo-release"
     },
     {
 	"repository": "PotatoDevices/kernel_samsung_sdm845",
 	"target_path": "kernel/samsung/sdm845",
 	"remote": "github",
-	"revision": "GCC"
+	"revision": "dumaloo-release"
+    },
+    {
+	"repository": "PotatoDevices/vendor_samsung_sdm845-common",
+	"target_path": "vendor/samsung/sdm845-common",
+	"remote": "github",
+	"revision": "dumaloo-release"
+    },
+    {
+        "repository": "RenatohRibeiro/android_hardware_samsung",
+    	"target_path": "hardware/samsung",
+    	"remote": "github",
+	"revision": "dumaloo-release"
     }
 ]
